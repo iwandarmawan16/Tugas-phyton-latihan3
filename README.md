@@ -146,5 +146,7 @@ Hasil Program
 
 
 NAMA : R Iwan D
+
 NIM : 311720879
+
 KELAS : TI.18 B.1
