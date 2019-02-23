@@ -1,6 +1,6 @@
 Labpy03
 
-Latihan 1
+latihan1
 
 Program Sederhana Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
 Algoritma Program Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
@@ -11,6 +11,9 @@ Finish
 Setelah kita membuat Algoritma tersebut Maka Langkah selanjutnya membuat Flowchart program Menampilkan Bilangan Acak Yang Lebih Kecil Dari 0.5.
 
 Program Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
+![latihan1 py](https://user-images.githubusercontent.com/46879070/53289111-1a8bd480-37c4-11e9-86c7-0f1476fabc43.png)
+
+
 
 
 print ('Menampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')
@@ -27,14 +30,16 @@ for i in range (jumlah) : Untuk Pengulangan dengan range jumlah
 print (" Data ke -> ", 1+i, "=",(random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
 
 Hasil Program
+![latihan1 hasil](https://user-images.githubusercontent.com/46879070/53289113-27102d00-37c4-11e9-868b-cfdf24c1c3f7.png)
 
 
 
 
 
 
+latihan2
 
-Latihan 2
+
 Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan
 Algoritma Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan
 Start
@@ -47,6 +52,9 @@ Setelah kita membuat Algoritma tersebut Maka Langkah selanjutnya membuat Flowcha
 
 
 Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang di Masukkan
+![latihan2 py](https://user-images.githubusercontent.com/46879070/53289116-31cac200-37c4-11e9-812a-bc786b5da56e.png)
+
+
 
 print (' Bilangan Terbesar Dari n Buah Data Yang Dimasukan ')
 max = 0
@@ -66,12 +74,16 @@ if max < x: jika max kurang dari x maka max = x
 if x==0: break jika x= 0 maka akan berhenti dengan syarat break yang terpenuhi
 print ("Bilangan Terbesar Adalah : ", max) Menampilkan *Bilangan Terbesar Adalah : Nilai maxiumnya
 
-
-
 Hasil Program
+![latihan2 hasil](https://user-images.githubusercontent.com/46879070/53289117-33948580-37c4-11e9-970d-86b985af16d7.png)
+
+
+
 
 
 latihan3
+
+
 Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
 Algoritma Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
 Start
@@ -85,6 +97,10 @@ Finish
 
 
 Program Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
+![latihan3 py](https://user-images.githubusercontent.com/46879070/53289118-35f6df80-37c4-11e9-9cb8-c431a8b16650.png)
+
+
+
 
 print ( 'Total Keuntungan Selama 8 Bulan Berjalannya Usaha' )
 
@@ -120,7 +136,7 @@ x= (A+B+C+D+E+F+G+H) print (" Jumlah Keuntungan Selama 8 Bulan Adalah :",x) x be
 
 
 Hasil Program
-
+![latihan3 hasil](https://user-images.githubusercontent.com/46879070/53289119-37280c80-37c4-11e9-9409-3cfe2c6b4607.png)
 
 
 
